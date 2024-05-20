@@ -125,7 +125,7 @@
 }
 .hero-section
 {
-    height:350px; background-image: url(https://images.pexels.com/photos/6077368/pexels-photo-6077368.jpeg?auto=compress&cs=tinysrgb&w=600);
+    height:350px; background-image: url("https://images.pexels.com/photos/6077368/pexels-photo-6077368.jpeg?auto=compress&cs=tinysrgb&w=600");
     background-size: cover; display:flex;  justify-content: center; align-items:flex-end;
 }
 .hero-text
