@@ -125,7 +125,7 @@
 }
 .hero-section
 {
-    height:350px; background-image: url(https://images-eu.ssl-images-amazon.com/images/G/31/img22/march/brands/GW/Under_1499_Tallhero_3000x1200._CB561212093_.jpg);
+    height:350px; background-image: url(https://images.pexels.com/photos/6077368/pexels-photo-6077368.jpeg?auto=compress&cs=tinysrgb&w=600);
     background-size: cover; display:flex;  justify-content: center; align-items:flex-end;
 }
 .hero-text
